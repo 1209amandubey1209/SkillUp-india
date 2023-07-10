@@ -1,0 +1,14 @@
+.form{
+    width: auto;
+    background-color: blanchedalmond;
+    margin-top:50px;
+    
+    margin-bottom: 100px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px gray;
+    padding: 100px;
+}
+.text-center{
+    color: red;
+    
+}

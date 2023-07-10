@@ -1,0 +1,14 @@
+p{
+    margin-top: 2px;
+    text-align: center;
+}
+.row{
+    justify-content: space-evenly;
+}
+h1{
+    margin-bottom: 0;
+}
+.auto-col:hover{
+    box-shadow: 0 0 20px blue;
+    cursor: pointer;
+}

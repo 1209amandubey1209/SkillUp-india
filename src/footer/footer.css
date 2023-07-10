@@ -1,0 +1,13 @@
+.footer{
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-bottom: 0;
+}
+.imgs{
+    height: 50px;
+}
+td:hover{
+    color: blue;
+    cursor: pointer;
+
+}

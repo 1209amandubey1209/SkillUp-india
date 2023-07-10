@@ -1,0 +1,11 @@
+.card-st{
+    margin: 70px;
+}
+.card-st:hover{
+    box-shadow: 0 0 20px gray;
+    cursor: pointer;
+}
+h1{
+    padding: 100px;
+    text-align: center;
+}
